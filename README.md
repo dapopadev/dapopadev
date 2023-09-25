@@ -1,7 +1,5 @@
 
-# My portfolio description
-
-#<h1 align="center">Hi 👋, I'm Daniela Popa</h1>
+<h1 align="center">Hi 👋, I'm Daniela Popa</h1>
 <h3 align="center">An enthusiastic data analyst from Spain</h3>
 
 - 🔭 I’m currently working on **personal projects**
