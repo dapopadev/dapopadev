@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **project team collaboration,reaserch collaboration,data consulting,publication and outreach**
 
-- 👨‍💻 All of my projects are available at [https://dapopadev.github.io/project/](https://dapopadev.github.io/project/)
+- 👨‍💻 All of my projects are available at [https://dapopadev.github.io/project/](https://dapopadev.github.io)
 
 - 💬 Ask me about **PySpark, Hadoop, Apache Spark, Power BI, Matplot, Seaborn, Mongodb, Cassandra, Redis, Skit-Learn**
 
